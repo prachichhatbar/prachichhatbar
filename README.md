@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Prachi Chhatbar</h1>
-  <h3>Software Engineer | Technical Writer | Pipeline Developer</h3>
+  <h3>Software Engineer | Pipeline Developer</h3>
   
   🌍 London, United Kingdom | 💼 Jellyfish Pictures
   
