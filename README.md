@@ -37,9 +37,4 @@
   
   ![Tech News](https://img.shields.io/badge/Tech_News-Daily_Updates-blue?style=for-the-badge&logo=rss&logoColor=white)
 
-Stay updated with the latest in technology! Visit my curated tech news platform for:
-- 🚀 Latest Tech Trends
-- 💻 Development Updates
-- 🌐 Industry Insights
-- 🔧 Tools & Resources
 </div>
