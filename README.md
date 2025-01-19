@@ -30,3 +30,16 @@
 - 🎓 AWS Certified Cloud Practitioner
 - 📊 Reduced deployment time by 25% using Rez packages
 - 🚀 Improved search queries by 30% with Elasticsearch
+
+## 📱 Latest Tech Updates
+<div align="center">
+  <h3><a href="https://prachichhatbar.github.io/tech-news-daily/">🔍 Check out Tech News Daily</a></h3>
+  
+  ![Tech News](https://img.shields.io/badge/Tech_News-Daily_Updates-blue?style=for-the-badge&logo=rss&logoColor=white)
+
+Stay updated with the latest in technology! Visit my curated tech news platform for:
+- 🚀 Latest Tech Trends
+- 💻 Development Updates
+- 🌐 Industry Insights
+- 🔧 Tools & Resources
+</div>
